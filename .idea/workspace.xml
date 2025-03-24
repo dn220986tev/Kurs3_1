@@ -5,19 +5,124 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a015034-7d79-433c-a300-140ab46f50e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeinProjekt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson22/Magik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson22/lesson22Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_21_HA/Freund.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_21_HA/Hundin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_21_HA/MainAbstrakt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_21_HA/Mitbewohnerin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson24/HA/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson24/HA/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_23/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_23/CatApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/autopark/Autobus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/autopark/Autopilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/autopark/BusApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/autopark/BusDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/autopark/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/components/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/components/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/components/ComputerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/components/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/components/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson/HA27/components/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson22/HA/ArrayEncapsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson22/HA/MagicArrayEncaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson23/HA/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson23/HA/EmployeeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson23/HA/MagicArrayHW23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson23/HA/Main23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/HA/Calculator25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson32/HA/task1/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson32/HA/task2/PrintLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson32/HA/task3/NumericPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson34/HA/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson34/HA/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_21/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_21/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_21/MainCats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_21/MainDogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_22/HA/ArrayEncapsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_22/HA/MagicArrayEncaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_22/Magik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_22/lesson22Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_24/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_24/CarApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_24/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_24/StaticExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_25/ConstantApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_25/ConstantDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_25/FinalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_25/StaticApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_25/StaticBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_26/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_26/transport/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_26/transport/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_26/transport/TransportApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_26/transport/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_27/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_27/Autobus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_27/Autopilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_27/BusDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_27/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_28/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_28/animals/CastingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_28/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_28/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_28/animals/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_28/animals/TestToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_28/animals/ZooApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_28/staticPolimorphism/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_29/CastingExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_29/abstracts/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_29/abstracts/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_29/abstracts/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_29/abstracts/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_29/children/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_29/children/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_29/children/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/flyable/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/flyable/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/flyable/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/flyable/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/flyable/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/flyable/Swimmable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/flyable/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/interfaces/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/interfaces/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/interfaces/ColorPrintable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/interfaces/Journal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/interfaces/Presentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_30/interfaces/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_31/generics/GenericApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_31/generics/GenericBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_31/generics/SimpleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_31/generics/SimpleBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_31/generics/Wrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_32/Wrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_32/lesson_list/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_32/lesson_list/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_32/lesson_list/TypeErasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_32/methods/MethodsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_32/methods/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_34/OrderedTestByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_34/OrderedTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_34/persons/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_34/persons/PersonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_34/persons/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_34/persons/TestExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_35/equlas/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_35/equlas/EmployeeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_37/enums/AppTraffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_37/enums/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_37/enums/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lists/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lists/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persons/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persons/PersonApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeinProjekt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MeinProjekt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson22/Magik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson22/lesson22Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_21_HA/Freund.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson21/HA/Freund.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_21_HA/Hundin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson21/HA/Hundin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_21_HA/MainAbstrakt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson21/HA/MainAbstrakt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_21_HA/Mitbewohnerin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson21/HA/Mitbewohnerin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +133,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dn220986tev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dn220986tev/Kurs3.git&quot;,
+    &quot;accountId&quot;: &quot;713c6795-bd03-4662-8af7-f3dd0023838c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -45,22 +163,59 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.ArrayEncapsTest.executor": "Run",
+    "Application.CarApp.executor": "Run",
+    "Application.CastingExample2.executor": "Run",
+    "Application.GenericApp.executor": "Run",
+    "Application.Main23.executor": "Run",
     "Application.MainAbstrakt.executor": "Run",
     "Application.MainHundin.executor": "Run",
+    "Application.MathOperations.executor": "Run",
+    "Application.MethodsApp.executor": "Run",
+    "Application.NumericPair.executor": "Run",
+    "Application.PersonApp.executor": "Run",
+    "Application.PrintLists.executor": "Run",
+    "Application.StringBuilderExample.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.TransportApp.executor": "Run",
+    "Application.lesson22Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.PersonTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/AktuallesPr/MeinProjekt/src/Main.java"
+    "onboarding.tips.debug.path": "C:/AktuallesPr/MeinProjekt/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lesson_34.persons" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lists" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonTest">
     <configuration name="MainAbstrakt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_21_HA.MainAbstrakt" />
+      <option name="MAIN_CLASS_NAME" value="Homework.lesson21_HA.MainAbstrakt" />
       <module name="MeinProjekt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_21_HA.*" />
+          <option name="PATTERN" value="Homework.lesson21_HA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,8 +223,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MeinProjekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_34.persons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson_34.persons" />
+      <option name="MAIN_CLASS_NAME" value="lesson_34.persons.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PersonTest" />
         <item itemvalue="Application.MainAbstrakt" />
       </list>
     </recent_temporary>
@@ -92,6 +263,16 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson_28/animals/ZooApp.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson/HA27/autopark/BusApp.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
