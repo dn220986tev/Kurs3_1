@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a015034-7d79-433c-a300-140ab46f50e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson47/HA/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_38/git-restore-main.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_38/git-task-steps.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson47/HA/hw/TasksAll.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeinProjekt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MeinProjekt.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +54,7 @@
     "Application.ComparatorApp.executor": "Run",
     "Application.FrequencyDictionary.executor": "Run",
     "Application.GenericApp.executor": "Run",
+    "Application.GroupingByExample.executor": "Run",
     "Application.Main23.executor": "Run",
     "Application.MainAbstrakt.executor": "Run",
     "Application.MainHundin.executor": "Run",
@@ -74,6 +71,9 @@
     "Application.Task3.executor": "Run",
     "Application.TransportApp.executor": "Run",
     "Application.lesson22Main.executor": "Run",
+    "Application.task1.executor": "Run",
+    "Application.task2.executor": "Run",
+    "Application.task3.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "JUnit.PersonTest.executor": "Run",
     "Repository.Attach.Annotations": "false",
